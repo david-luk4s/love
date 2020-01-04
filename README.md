@@ -28,7 +28,13 @@ Use o PIP, gerenciador de pacotes do Python para instalar todos os requisitos
 
 ```
 pip install -r requirements.txt
+```
 
+Execute o programa
+
+```
+python Love.py
+```
 
 ## Authors
 
