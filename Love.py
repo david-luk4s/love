@@ -34,7 +34,7 @@ def main():
     turtle.setposition(20,-50)
     
     turtle.color('deep pink')
-    turtle.write("Para meu amor Emilly", move=True, align='center', font=('Courier',30,'italic'))
+    turtle.write("Uma declaração de Amor", move=True, align='center', font=('Courier',30,'italic'))
     turtle.color('Thistle')
     turtle.end_fill()
     turtle.hideturtle()
